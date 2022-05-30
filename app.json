@@ -24,10 +24,20 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.agrokst.ecommerce",
+      "googleServicesFile": "./google-services.json",
+      "versionCode": 1
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "config": {
+        "firebase": {
+          "appId": "1:1022474102642:web:9fc748bb0cee869c645feb",
+          "apiKey": "AIzaSyBgiHX7hZcPbMXjnGj0oyAPRNPhMyV65l0",
+          "projectId": "agroshop-770a9"
+        }
+      }
     }
   }
 }

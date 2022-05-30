@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1022474102642",
+    "firebase_url": "https://agroshop-770a9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "agroshop-770a9",
+    "storage_bucket": "agroshop-770a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022474102642:android:6e4c5f34f4929a05645feb",
+        "android_client_info": {
+          "package_name": "com.agrokst.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022474102642-7ove642no0ueg2hs2g30bsonnbbsmnmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6GpSMmUlh0qKQdS1S-vd3e4TbJP5DJHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022474102642-7ove642no0ueg2hs2g30bsonnbbsmnmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
